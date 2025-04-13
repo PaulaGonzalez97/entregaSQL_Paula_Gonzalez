@@ -1,3 +1,3 @@
 # entregaSQL_Paula_Gonzalez
 
-Este repositorio contiene el archivo `E-commerce-sales-data` y `AmazonSales2025_dump.sql`, que es un **dump completo de la base de datos** creada para la entrega del proyecto de SQL.
+Este repositorio contiene los archivos `E-commerce sales data` y `Amazon Sales 2025`  los cuales representan un **dump completo de la base de datos** creados para la entrega del proyecto de SQL.
